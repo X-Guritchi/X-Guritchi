@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @X-Guritchi
-- 👀 I’m interested in coding and NFTs
-- 🌱 I’m currently learning coding,and all about Blockchain and NFTs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +2347014307548, my email uchechukwu2003emma@gmail.com
+Hi there I am Emmanuel a Data Analyst
+print('Hello Wurld')
 
 <!---
 X-Guritchi/X-Guritchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
